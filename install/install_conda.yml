@@ -1,0 +1,9 @@
+name: intro_ml_project
+dependencies:
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pandas
+  - pyspark
+  - ipykernel
