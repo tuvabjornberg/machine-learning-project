@@ -1,6 +1,6 @@
-numpy
-matplotlib
+numpy==2.2.0
+matplotlib==3.10.0
 scipy
 ipykernel
 pandas
-scikit-learn
+scikit-learn==1.6.0
