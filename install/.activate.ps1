@@ -2,7 +2,7 @@
 
 Write-Host "ACTIVATING" 
 
-$VENV_NAME = ".venv"
+$VENV_NAME = "..\.venv"
 $REQ_FILE = "requirements.txt"
 
 if (-Not (Test-Path $VENV_NAME)) {
